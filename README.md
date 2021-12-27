@@ -11,7 +11,7 @@ CURSOS LINK 👇
 |  #  | Projeto                                                                                                      | Youtube Link    |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Simples Loading Effect-1](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-Effect-1)      | Clique aqui |
-| 02  | [Simples Loading Effect-2]()      | Clique aqui |
+| 02  | [Simples Loading Effect-2](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-Effect-2)      | Clique aqui |
 | 03  | [Simples Loading Effect-3]()      | Clique aqui |
 | 04  | [Simples Loading Effect-4]()      | Clique aqui |
 | 05  | [Escada Loading Effect]()      | Clique aqui |
