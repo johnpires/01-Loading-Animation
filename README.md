@@ -18,7 +18,7 @@ CURSOS LINK 👇
 | 06  | [Blocos Loading Effect](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-Effect-6)      | Clique aqui |
 | 07  | [Infinito Loading Effect](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-effect-7)      | Clique aqui |
 | 08  | [Slide Loading Effect](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-effect-8)      | Clique aqui |
-| 09  | [Redirecionando Loading Effect]()      | Clique aqui |
+| 09  | [Redirecionando Loading Effect](https://github.com/johnpires/01-Loading-Animation/tree/main/Simples-Loading-Effect-9)      | Clique aqui |
 | 10  | [Explosão do Cubo Loading Effect]()      | Clique aqui |
 
 
